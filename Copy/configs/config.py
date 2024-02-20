@@ -1,0 +1,6 @@
+setting_key = "a"
+pause_key = "p"
+end_key = "esc"
+copy_key = "ctrl", "c"
+paste_key = "ctrl", "v"
+filename = "D:/Programming/test.xlsx"
